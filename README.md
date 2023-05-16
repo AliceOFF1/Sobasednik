@@ -100,6 +100,7 @@ ___
 На основании полученных тестов, код был видоизменен на языке Python в PyCharm.
 
 Исходный файл можно скачать по ссылке: https://drive.google.com/file/d/1z3F1uLwwfB4oaQut-SJZyMEoawJTA5z0/view?usp=share_link
+Видео прогонки авто-теста: https://youtu.be/ZowWduLZRKY
 
 ![mind](picture/1.png)
 ![mind](picture/2.png)
