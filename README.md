@@ -1,5 +1,5 @@
 # Sobasednik
-![logo](ReadmeFiles/picture/sobasednikpic.png)
+![logo](picture/sobasednikpic.png)
 
 ___
 
@@ -37,13 +37,13 @@ ___
 
 ## Майнд-карта жизненного цикла тестирования ПО
 
-![mind](ReadmeFiles/picture/LM.png)
+![mind](picture/LM.png)
 
 ___
 
 ## Майнд-карта одной из методологий разработки ПО (инкрементальная модель)
 
-![mind](ReadmeFiles/picture/model.png)
+![mind](picture/model.png)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 По учебному плану требовалось создать чек-лист, а после этого применить техники тест-дизайна и добавить изменения в уже имеющийся документ. 
 В связи с этим в чек-листе имеются пометки, где: 
-![mind](ReadmeFiles/picture/2-2.png)
+![mind](picture/2-2.png)
 С чек-листом можно ознакомиться по ссылке:
 https://docs.google.com/document/d/1sF4DsD4tK-3ZF7LUMYyhMd4K0ij1JMQO3Q5zaxf35XM/edit?usp=share_link
 
@@ -89,14 +89,14 @@ ___
 
 На основании полученных тестов, код был видоизменен на языке Python в PyCharm
 
-![mind](ReadmeFiles/picture/1.png)
-![mind](ReadmeFiles/picture/2.png)
-![mind](ReadmeFiles/picture/3.png)
+![mind](picture/1.png)
+![mind](picture/2.png)
+![mind](picture/3.png)
 
 ### Результат выполнения автотеста
 
 В конечно результате был получен следующий результат:
-![mind](ReadmeFiles/picture/scrin.png)
+![mind](picture/scrin.png)
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 В ходе проверки сайта “Собаседник” было составлено 188 тест-кейсов. Выявлено 45 деффектов, 4 тест-кейса заблокированы. На данный момент релиз платформы не рекомендуется. Необходимо провести правки основного функционала.
 
-![mind](ReadmeFiles/picture/TestRail-stats-1-20230427125312.png)
+![mind](picture/TestRail-stats-1-20230427125312.png)
 
 ___
 
