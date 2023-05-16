@@ -64,7 +64,7 @@ https://docs.google.com/document/d/1sF4DsD4tK-3ZF7LUMYyhMd4K0ij1JMQO3Q5zaxf35XM/
 Тест-кейсы создавались при помощи TestRail, но для удобства просмотра файл был сохранен с возможностью открытия в Office. 
 По учебному плану, как и в случае с чек-листом, требовалось создать тест-кейсы, а после этого применить техники тест-дизайна и добавить изменения в уже имеющийся документ. 
 В связи с этим в тест-кейсах имеются пометки, где: 
-![mind](ReadmeFiles/picture/1-1.png)
+![mind](picture/1-1.png)
 С тест-кейсами можно ознакомиться по ссылке:
 https://docs.google.com/spreadsheets/d/1T9-Kq29XGw4cAEmKFbRbyuj3BE1mimns/edit?usp=share_link&ouid=103864051407925571067&rtpof=true&sd=true
 
