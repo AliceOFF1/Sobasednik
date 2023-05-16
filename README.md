@@ -87,7 +87,7 @@ ___
 ### Selenium IDE 
 
 В первую очередь были составлены автотесты при помощи раширения Selenium IDE
-![mind](picture/Selenium IDE.png)
+![mind](picture/SeleniumIDE.png)
 
 ### PyCharm
 
